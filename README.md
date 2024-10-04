@@ -3,19 +3,25 @@ This project aims to help in the early identification and management of plant di
 
 ## Features
 
-### Image Classification: The CNN model is trained to identify 38 different plant diseases with high accuracy. The model analyzes input images and returns predictions based on learned patterns from a large labeled dataset.
+### Image Classification: 
+The CNN model is trained to identify 38 different plant diseases with high accuracy. The model analyzes input images and returns predictions based on learned patterns from a large labeled dataset.
 
-### User-Friendly Interface: The project employs Streamlit for the frontend, allowing users to easily upload images of plants and receive real-time classification results.
+### User-Friendly Interface: 
+The project employs Streamlit for the frontend, allowing users to easily upload images of plants and receive real-time classification results.
 
-### End-to-End Pipeline: From data preprocessing and model training to prediction and visualization, the project provides a complete pipeline for plant disease detection.
+### End-to-End Pipeline: 
+From data preprocessing and model training to prediction and visualization, the project provides a complete pipeline for plant disease detection.
 
 ## Technology Stack
 
-### Deep Learning: The core model is built using CNN, leveraging libraries like TensorFlow/Keras to train and evaluate the model.
+### Deep Learning: 
+The core model is built using CNN, leveraging libraries like TensorFlow/Keras to train and evaluate the model.
 
-### Frontend: Streamlit provides an interactive web-based frontend, making the tool accessible and easy to use.
+### Frontend: 
+Streamlit provides an interactive web-based frontend, making the tool accessible and easy to use.
 
-### Backend: Python-based backend manages image preprocessing, model inference, and the integration of the frontend with the model.
+### Backend: 
+Python-based backend manages image preprocessing, model inference, and the integration of the frontend with the model.
 
 ## Dataset and Training
 
